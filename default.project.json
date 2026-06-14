@@ -1,0 +1,39 @@
+{
+  "name": "UnchartedSnow",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Shared": {
+        "$path": "src/ReplicatedStorage/Shared"
+      }
+    },
+
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "Services": {
+        "$path": "src/ServerScriptService/Services"
+      },
+      "Systems": {
+        "$path": "src/ServerScriptService/Systems"
+      },
+      "Managers": {
+        "$path": "src/ServerScriptService/Managers"
+      }
+    },
+
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "Controllers": {
+          "$path": "src/StarterPlayerScripts/Controllers"
+        },
+        "UI": {
+          "$path": "src/StarterPlayerScripts/UI"
+        }
+      }
+    }
+  }
+}

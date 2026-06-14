@@ -1,0 +1,20 @@
+# Roblox Studio
+*.rbxl
+*.rbxlx
+
+# Rojo temp files
+*.rbxmx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Wally lockfile (optional — remove if you want to track it)
+# wally.lock
+
+# Node / tooling
+node_modules/
